@@ -1,1 +1,1 @@
-var posts=["2023/09/21/hello-world/","2023/09/30/使用-Github-Pages-和-Hexo-搭建自己的独立博客/","2023/10/03/聊一聊华为Mate60/","2023/10/02/聊一聊苹果新品/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/09/21/hello-world/","2023/09/30/使用-Github-Pages-和-Hexo-搭建自己的独立博客/","2023/10/03/聊一聊华为Mate60/","2023/10/02/聊一聊苹果新品/","2023/10/03/如何让博客支持AI摘要，使用TianliGPT自动生成文章的AI摘要/","2023/10/03/我的建站方案/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
